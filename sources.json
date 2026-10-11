@@ -1,0 +1,32 @@
+{
+  "bears-hug": {
+    "file": "bears-hug.png",
+    "source": "https://cdn2.cdnstep.com/irFMWa1ye0sK9ltDe1PX/7-1.webp",
+    "page": "https://www.sigstick.com/pack/irFMWa1ye0sK9ltDe1PX-%E4%B8%80%E4%BA%8C%E5%B8%83%E5%B8%83"
+  },
+  "bears-kiss": {
+    "file": "bears-kiss.png",
+    "source": "https://cdn2.cdnstep.com/irFMWa1ye0sK9ltDe1PX/4-1.webp",
+    "page": "https://www.sigstick.com/pack/irFMWa1ye0sK9ltDe1PX-%E4%B8%80%E4%BA%8C%E5%B8%83%E5%B8%83"
+  },
+  "dog-love-white": {
+    "file": "dog-love-white.png",
+    "source": "https://stickershop.line-scdn.net/sticonshop/v1/sticon/666177dd45171c6ef90f8160/iPhone/009.png",
+    "page": "https://store.line.me/emojishop/product/666177dd45171c6ef90f8160/zh-Hant"
+  },
+  "dog-love-yellow": {
+    "file": "dog-love-yellow.png",
+    "source": "https://stickershop.line-scdn.net/sticonshop/v1/sticon/666177dd45171c6ef90f8160/iPhone/010.png",
+    "page": "https://store.line.me/emojishop/product/666177dd45171c6ef90f8160/zh-Hant"
+  },
+  "dog-party": {
+    "file": "dog-party.png",
+    "source": "https://stickershop.line-scdn.net/sticonshop/v1/sticon/666177dd45171c6ef90f8160/iPhone/014.png",
+    "page": "https://store.line.me/emojishop/product/666177dd45171c6ef90f8160/zh-Hant"
+  },
+  "dog-smile": {
+    "file": "dog-smile.png",
+    "source": "https://stickershop.line-scdn.net/sticonshop/v1/sticon/666177dd45171c6ef90f8160/iPhone/001.png",
+    "page": "https://store.line.me/emojishop/product/666177dd45171c6ef90f8160/zh-Hant"
+  }
+}
